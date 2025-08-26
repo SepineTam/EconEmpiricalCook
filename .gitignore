@@ -1,0 +1,18 @@
+# IDEs
+.idea/
+.vscode/
+
+# OS X
+*.DS_Store
+
+# local file
+*.local.*
+local/
+locals/
+
+# temp file
+tmp/
+temp/
+*.tmp
+*.tmp.*
+
